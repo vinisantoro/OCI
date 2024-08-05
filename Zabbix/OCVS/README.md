@@ -2,7 +2,7 @@
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_313x82.png">
 </p>
 
-## ZABBIX - ORACLE CLOUD VMWARE SOLUTION -TEMPLATE 
+## OCI Network Firewall - TEMPLATE 
 This template is based on official Zabbix VMware templates with some changes which allows you to monitor your Oracle Cloud VMware Solution. 
 
 ### 🚀 SOME SETUP 
