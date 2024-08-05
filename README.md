@@ -4,7 +4,7 @@ This is not an official Oracle repository and does not necessarily reflect the b
 
 ## 📝 Description
 
-Having worked with [Oracle Cloud Infrastructure (OCI)](https://docs.oracle.com/iaas/Content/network-firewall/overview.htm) for a long time, I would like to share my knowledge, scripts, and modules that have helped me on my journey.
+Having worked with [Oracle Cloud Infrastructure (OCI)](https://docs.oracle.com/pt-br/iaas/Content/home.htm) for a long time, I would like to share my knowledge, scripts, and modules that have helped me on my journey.
 
 The modules, scripts, and documents presented here are constantly evolving and under active development. They may contain opportunities for improvement, and I am excited to engage with the community by building and updating this material.
 
